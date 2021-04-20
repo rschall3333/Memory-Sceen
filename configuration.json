@@ -1,0 +1,77 @@
+{
+  "name": "Weather Station",
+  "temperature humidity sensor":
+  {
+    "port": 7,
+    "type": 0
+  },
+  "offsets":
+  {
+    "temperature": 0.0,
+    "humidity": 0.0
+  },
+  "reading window and frequency":
+  {
+    "hour start": 8,
+    "hour stop": 23,
+    "frequency": 15.0
+  },
+  "output LEDs":
+  {
+    "green":
+    {
+      "port": 4,
+      "min temp": 60.0,
+      "max temp": 85.0,
+      "max humidity": 80.0
+    },
+    "red":
+    {
+      "port": 2,
+      "min temp": 95.0,
+      "max temp": 999.0,
+      "max humidity": 80.0
+    },
+    "blue":
+    {
+      "port": 3,
+      "min temp": 85.0,
+      "max temp": 95.0,
+      "max humidity": 80.0
+    }
+  },
+  "colors":
+  {
+    "red":
+    {
+      "red hex": 255,
+      "green hex": 0,
+      "blue hex": 0
+    },
+    "green":
+    {
+      "red hex": 0,
+      "green hex": 255,
+      "blue hex": 0
+    },
+    "blue":
+    {
+      "red hex": 0,
+      "green hex": 0,
+      "blue hex": 255
+    }
+  },
+  "Server":
+  {
+    "host": "localhost",
+    "user": "rschall",
+    "password": "H0wdareyou",
+    "database": "WEATHER_STATION"
+  },
+  "Server Data":
+  {
+    "city": "Dayton",
+    "state": "OH",
+    "zipcode": "45420"
+  }
+}
