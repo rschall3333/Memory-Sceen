@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<script type="text/javascript" src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script type="text/javascript">
+window.onload = function () {
+var dataPointsT = [];
+var dataPointsH = [];
+$.getJSON("output_data.json", function(data) {  
+	$.each(data, function(key, value){
+		dataPointsT.push({x: value[0], y: parseInt(value[1])});
+		dataPointsH.push({x: value[0], y: parseInt(value[2])});
+	});
+	
+	var chartT = new CanvasJS.Chart("chartContainerT",{
+		title:{
+			text:"Plotting Temperature"
+		},
+		axisX: {
+		title: "Time Elapsed",
+		suffix: " mins"
+		},
+		axisY: {
+		title: "Temperature (in °F)",
+		suffix: " °F"
+		},
+		theme: "light2",
+		data: [{
+			type: "line",
+			dataPoints : dataPointsT,
+		}]
+	});
+	chartT.render();
+	
+	var chartH = new CanvasJS.Chart("chartContainerH",{
+		title:{
+			text:"Plotting Humidity"
+		},
+		axisX: {
+		title: "Time Elapsed",
+		suffix: " mins"
+		},
+		axisY: {
+		title: "% Humidity",
+		suffix: " %"
+		},
+		theme: "light4",
+		data: [{
+			type: "line",
+			dataPoints : dataPointsH,
+		}]
+	});
+	chartH.render();
+});
+}
+</script>
+
+</head>
+<body>
+<div id="chartContainerT" style="height: 300px; width: 100%;"></div>
+<div id="chartContainerH" style="height: 300px; width: 100%;"></div>
+</body>
+</html>
