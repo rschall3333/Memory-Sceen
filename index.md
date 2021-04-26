@@ -47,7 +47,7 @@ My experience with fellow students and professors has been invaluable to my lear
 
 [Enhancement Three - Weather Station - Databases](https://github.com/rschall3333/Memory-Sceen/blob/352684eb6b71356bb511b1da8718cd8b5ffa52b8/CS499_5-2%20Narrative_MilestoneFourEnhancementThree_2021.04.07.docx)
 
-### Code (Python, JSON, HTML, MySQL, & JavaScript)
+### Code (Raspbian OS, Python, JSON, HTML, MySQL, & JavaScript)
 [Weather Station - Python Code](https://github.com/rschall3333/Memory-Sceen/blob/304853026643f68d09878b30a62143c36d0c7419/weather_station_2021-04-20.py)
 
 [Weather Station - JSON Configuration File](https://github.com/rschall3333/Memory-Sceen/blob/304853026643f68d09878b30a62143c36d0c7419/configuration.json)
@@ -66,11 +66,17 @@ My experience with fellow students and professors has been invaluable to my lear
 
 [A Reflection on Security](https://github.com/rschall3333/CS405-SecureCoding/blob/2634f14b88aac2236b167f3ff5d8cb8d85d7375c/CS405_8-2%20Journal_Richard_Schall_2021.04.21.pdf)
 
+### Mock Security Policy
+[Security Policy — Document](https://github.com/rschall3333/CS405-SecureCoding/blob/2634f14b88aac2236b167f3ff5d8cb8d85d7375c/CS405_6-2%20Project%20One%20-%20Security%20Policy_RichardSchall.pdf)
 
-### Code (C++)
+[Security Policy — Presentation Document](https://github.com/rschall3333/CS405-SecureCoding/blob/2634f14b88aac2236b167f3ff5d8cb8d85d7375c/CS405_7-2%20Project%20Two%20Presentation_RichardSchall.pdf)
+
+[Security Policy — Link to Presentation](https://youtu.be/pDYKNwY-CX4)
+
+### Code (Visual Studio C++)
 [Encyrption](https://github.com/rschall3333/CS405-SecureCoding/blob/2634f14b88aac2236b167f3ff5d8cb8d85d7375c/Encryption.zip)
 
-[Excpetions](https://github.com/rschall3333/CS405-SecureCoding/blob/2634f14b88aac2236b167f3ff5d8cb8d85d7375c/Exceptions.zip)
+[Exceptions](https://github.com/rschall3333/CS405-SecureCoding/blob/2634f14b88aac2236b167f3ff5d8cb8d85d7375c/Exceptions.zip)
 
 [Numeric Overflow](https://github.com/rschall3333/CS405-SecureCoding/blob/2634f14b88aac2236b167f3ff5d8cb8d85d7375c/NumericOverflow.zip)
 
