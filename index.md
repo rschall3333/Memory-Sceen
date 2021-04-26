@@ -85,3 +85,20 @@ My experience with fellow students and professors has been invaluable to my lear
 [Static Analysis](https://github.com/rschall3333/CS405-SecureCoding/blob/2634f14b88aac2236b167f3ff5d8cb8d85d7375c/StaticAnalysis.zip)
 
 [Unit Testing](https://github.com/rschall3333/CS405-SecureCoding/blob/2634f14b88aac2236b167f3ff5d8cb8d85d7375c/UnitTesting.zip)
+
+
+
+## Cognex VisionPro Microsoft Excel Interface
+### Narrative
+[Narrative](https://github.com/rschall3333/Excel-Cognex-Interface/blob/c3bd3ac5e73132c3a01cad5ec2c669f9d5bd73fd/Narrative%20-%20Cognex%20Excel%20Interface.pdf)
+
+### Code (Visual Studio C#, VisionPro Quickbuild, Excel and ReadMe)
+[Visual Studio C# — Camera Application](https://github.com/rschall3333/Excel-Cognex-Interface/blob/c3bd3ac5e73132c3a01cad5ec2c669f9d5bd73fd/CMM_Study.zip)
+
+[Excel Spreadsheet with VBA code](https://github.com/rschall3333/Excel-Cognex-Interface/blob/c3bd3ac5e73132c3a01cad5ec2c669f9d5bd73fd/json_example.xlsm)
+
+[Cognex VisionPro 9.6 SR2 Job file](https://github.com/rschall3333/Excel-Cognex-Interface/blob/c3bd3ac5e73132c3a01cad5ec2c669f9d5bd73fd/CameraPos.vpp)
+
+[ReadMe](https://github.com/rschall3333/Excel-Cognex-Interface/blob/c3bd3ac5e73132c3a01cad5ec2c669f9d5bd73fd/README.md)
+
+
