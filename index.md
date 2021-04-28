@@ -1,11 +1,10 @@
 #### Richard Schall - ePortfolio
 
-# Self-Assessment
+## Self-Assessment
 [2021-04-15](https://github.com/rschall3333/Memory-Sceen/blob/33c6dbe82abf390528fba49e666b72f774410b6b/Self-Assessment_2021-04-15.pdf)
 
+
 # **Applications Development Examples**
-
-
 
 ## Full-Stack Application — Weather Station
 ### Code Reviews 
