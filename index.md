@@ -7,7 +7,7 @@
 # **Applications Development Examples**
 
 
-## Cognex VisionPro Microsoft Excel Interface
+## Cognex VisionPro Microsoft  Excel Interface
 ### Narrative
 [Narrative](https://github.com/rschall3333/Excel-Cognex-Interface/blob/c3bd3ac5e73132c3a01cad5ec2c669f9d5bd73fd/Narrative%20-%20Cognex%20Excel%20Interface.pdf)
 
