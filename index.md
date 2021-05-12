@@ -6,7 +6,6 @@
 
 # **Applications Development Examples**
 
-
 ## Cognex VisionPro - Microsoft Excel Interface
 ### Narrative
 [Narrative](https://github.com/rschall3333/Excel-Cognex-Interface/blob/c3bd3ac5e73132c3a01cad5ec2c669f9d5bd73fd/Narrative%20-%20Cognex%20Excel%20Interface.pdf)
@@ -19,6 +18,15 @@
 [Cognex VisionPro 9.6 SR2 Job file](https://github.com/rschall3333/Excel-Cognex-Interface/blob/c3bd3ac5e73132c3a01cad5ec2c669f9d5bd73fd/CameraPos.vpp)
 
 [ReadMe](https://github.com/rschall3333/Excel-Cognex-Interface/blob/c3bd3ac5e73132c3a01cad5ec2c669f9d5bd73fd/README.md)
+
+
+## Gasket Check Application (2006)
+
+### Technical Writing
+[Instruction Manual](https://github.com/rschall3333/Memory-Sceen/blob/53959cff81acd5a8c35dbd970b384f6965c8de35/AK56597_InstructionManual_revA.pdf)
+
+### Code (Visual Basic.NET)
+[Gasket Check](https://github.com/rschall3333/GasketChecker/)
 
 
 ## Weather Station Application
@@ -38,8 +46,6 @@
 [Weather Station - JSON Configuration File](https://github.com/rschall3333/Memory-Sceen/blob/304853026643f68d09878b30a62143c36d0c7419/configuration.json)
 
 [Weather Station - Dashboard Web Application](https://github.com/rschall3333/Memory-Sceen/blob/304853026643f68d09878b30a62143c36d0c7419/Dashboard_Temp_Humidity.html)
-
-
 
 ## Secure Coding
 ### Journal
@@ -70,12 +76,3 @@
 [Static Analysis](https://github.com/rschall3333/CS405-SecureCoding/blob/2634f14b88aac2236b167f3ff5d8cb8d85d7375c/StaticAnalysis.zip)
 
 [Unit Testing](https://github.com/rschall3333/CS405-SecureCoding/blob/2634f14b88aac2236b167f3ff5d8cb8d85d7375c/UnitTesting.zip)
-
-
-## Gasket Check Application (2006)
-
-### Technical Writing
-[Instruction Manual](https://github.com/rschall3333/Memory-Sceen/blob/53959cff81acd5a8c35dbd970b384f6965c8de35/AK56597_InstructionManual_revA.pdf)
-
-### Code (Visual Basic.NET)
-[Gasket Check](https://github.com/rschall3333/GasketChecker/)
